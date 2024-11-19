@@ -107,7 +107,7 @@ const HeroSection = ({ nav, handleNav }) => {
 					href='Alejandro Sandoval Resume.pdf'
 					download='Alejandro Sandoval III Resume'
 					className='hero-contact'>
-					Download CV <BiDownload className='cv-icon' />
+					Download Resume <BiDownload className='cv-icon' />
 				</a>
 			</motion.span>
 		</div>
